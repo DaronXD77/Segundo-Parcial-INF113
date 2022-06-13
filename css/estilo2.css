@@ -1,0 +1,36 @@
+*
+{
+    margin: 3px;
+    padding: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header
+{
+    background-color: #0E0E0E;
+    margin: 0px;
+    width: 100%;
+}
+footer
+{
+    height: 50px;
+    width: 100%;
+    background-color: #0E0E0E;
+    color: aliceblue;
+}
+#contfooter
+{
+    float: right;
+}
+h2
+{
+    color: #000000;
+}
+@media screen and (max-width:500px)
+{
+    img
+    {
+        width:100%;
+        height:100%
+    }
+}
+
